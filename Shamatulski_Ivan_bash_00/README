@@ -1,0 +1,1 @@
+to run script fd.sh use ./fd.sh > stdout.txt 2> stderr.txt
